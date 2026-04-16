@@ -1,3 +1,3 @@
-module github.com/fipaan/lib.go
+module github.com/Fipaan/lib.go
 
 go 1.25.5
